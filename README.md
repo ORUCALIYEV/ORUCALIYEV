@@ -1,7 +1,7 @@
 ![MasterHead](https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm Oruc Aliyev</h1>
 <h3 align="center">A passionate web developer from Azerbaijan</h3>
-<img align="right" alt="Coding" widht="400" autoplay="true" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
+<img align="right" alt="Coding" widht="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 
 
